@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "dungeon/male"
+	"$translucent" "1"
+}
